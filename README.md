@@ -4,14 +4,19 @@ This project uses machine learning to perform sentiment analysis (positive/negat
 
 I've followed the following steps:
 1. EDA or Exploratory Data Analysis to gain an overview of the dataset.
-2. Text Preprocessing: Cleaning and preparing data for sentiment analysis
+2. Text Preprocessing: Cleaning and preparing data for sentiment analysis:
+   
      2.1 Cleaning
+   
      2.2 Tokenization
+   
      2.3 Removing Stopwords
+   
      2.4 Stemming or Lemmatization
-3. Feature Extraction using TF-IDF vectorization
-4. Model traning and testing
-5. Result and Conclusion
+   
+4. Feature Extraction using TF-IDF vectorization
+5. Model traning and testing
+6. Result and Conclusion
    
 Dataset used: https://www.kaggle.com/datasets/alexandrakim2201/spotify-dataset/data
 
