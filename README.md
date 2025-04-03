@@ -19,7 +19,7 @@ The following steps were followed to implement sentiment analysis:
 
 ## Achievements
 - Achieved **88% accuracy** on Spotify reviews.
-- The Spotify implementation received a **Bronze Medal** on Kaggle.
+- The Spotify implementation received a **Bronze Medal** on Kaggle with 1000+ views.
 - Work is **in progress** for applying the methodology to the IMDB dataset.
 
 ## Additional Resources
