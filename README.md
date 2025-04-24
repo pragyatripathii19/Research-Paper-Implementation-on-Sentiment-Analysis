@@ -40,7 +40,7 @@ The following NLP pipeline was used to perform sentiment classification:
 | Dataset       | Accuracy | Notes                          |
 |---------------|----------|--------------------------------|
 | **Spotify**   | 88%      | 🥉 Bronze Medal on Kaggle with 1000+ views |
-| **IMDB**      | 86%      | Completed implementation using same methodology |
+| **IMDB**      | 89%      | Complete implementation using same methodology |
 
 ---
 
